@@ -60,10 +60,10 @@ https://developer.mozilla.org/fr/docs/Web/HTML
 
 Recommandations
 - 
-Faites de l'indentation votre priorité
-Prenez l'habitude de coder avec du vocabilaire anglais
-Prenez l'habitude de commenter avec du vocalaire anglais
-les contenus doivent rester en français pour le moment
+ - Faites de l'indentation votre priorité
+ - Prenez l'habitude de coder avec du vocabilaire anglais
+ - Prenez l'habitude de commenter avec du vocalaire anglais
+ - les contenus doivent rester en français pour le moment
 
 Deadline
 -
