@@ -1,10 +1,10 @@
 Objectif :
 - 
 
-- Premier pas avec Visuel Studio Code
+- Premiers pas avec Visuel Studio Code
 - Compréhension de base de HTML et le fonctionnement des balises
 - Comprendre la structure de base : '< html>', '< head>', '< body>', '< title>'
-- Connaître les balises de base : '< h1>' à '< h6>', '< p>', '< div>', '< img>', '< ul>', '< ol>', '< li>', '< header>', '< footer>', etc
+- Connaître les balises de base : '< h1>' à '< h6>', '< p>', '<  div>', '< img>', '< ul>', '< ol>', '< li>', '< header>', '< footer>', etc
 - Comprendre l'utilisation de href dans les '< img>' et '< a>'
 - Créer un tableau
 
@@ -61,11 +61,8 @@ https://developer.mozilla.org/fr/docs/Web/HTML
 Recommandations
 - 
  - Faites de l'indentation votre priorité
- - Prenez l'habitude de coder avec du vocabilaire anglais
- - Prenez l'habitude de commenter avec du vocalaire anglais
- - les contenus doivent rester en français pour le moment
 
 Deadline
 -
 
-Mercredi 31/05/2023 - 12h15
+Mardi 30/05/2023 - 16h45
