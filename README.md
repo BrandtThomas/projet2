@@ -56,7 +56,8 @@ Votre projet doit être structuré de la manière suivante :
 
 Ressources
 - 
-https://developer.mozilla.org/fr/docs/Web/HTML
+https://developer.mozilla.org/fr/docs/Web/HTML & le mémo disponible dans le repository
+
 
 Recommandations
 - 
@@ -65,4 +66,4 @@ Recommandations
 Deadline
 -
 
-Mardi 30/05/2023 - 16h45
+Mercredi 31/05/2023 - 12h15
