@@ -1,7 +1,7 @@
 Objectif :
 - 
 
-- Premiers pas avec Visuel Studio Code
+- Premiers pas avec Visual Studio Code
 - Compréhension de base de HTML et le fonctionnement des balises
 - Comprendre la structure de base : '< html>', '< head>', '< body>', '< title>'
 - Connaître les balises de base : '< h1>' à '< h6>', '< p>', '<  div>', '< img>', '< ul>', '< ol>', '< li>', '< header>', '< footer>', etc
